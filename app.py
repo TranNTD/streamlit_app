@@ -1,6 +1,6 @@
 import requests
 import streamlit as st
-import streamlit_lottie as st_lottie
+
 
 st.set_page_config(page_title="Thuy Dung Webpage", page_icon = "🥰", layout = "wide")
 
